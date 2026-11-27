@@ -1,0 +1,5 @@
+station_id,station_name,sequence,crew_minutes,state
+CS-01,Cape Ember,10,120,ACTIVE
+CS-02,North Shoal,20,75,ACTIVE
+CS-03,Delta Point,30,90,PAUSED
+CS-04,Fog Harbor,40,45,ACTIVE
