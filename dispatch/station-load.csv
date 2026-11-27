@@ -1,0 +1,4 @@
+sequence,station_id,station_name,crew_minutes,candidate_alerts,dispatched_alerts,dispatched_minutes,remaining_minutes
+10,CS-01,Cape Ember,120,3,2,100,20
+20,CS-02,North Shoal,75,3,2,60,15
+40,CS-04,Fog Harbor,45,2,0,0,45
